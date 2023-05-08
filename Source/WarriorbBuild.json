@@ -1,0 +1,31 @@
+{
+    "Version": "1.3.1",
+    "Name": "WarriOrb",
+    "NameDemo": "WarriOrbPrologue",
+    "DisplayedTitle": "INVTEXT(\"WarriOrb\")",
+    "DisplayedTitleDemo": "INVTEXT(\"WarriOrb: Prologue\")",
+    "Loading": {
+        "Image": "/Game/SO/GUI/art/Loading/warriorb_new.warriorb_new",
+        "ImageDemo": "/Game/SO/GUI/art/Loading/warriorb_new_prologue.warriorb_new_prologue"
+    },
+    "Steam": {
+        "IS_ENABLED": true,
+        "IS_RICH_PRESENCE_ENABLED": false,
+        "APP_ID": 790360,
+        "APP_ID_DEMO": 1193760,
+        "RELAUNCH_IN_STEAM": true,
+        "CHECK_IF_LIBRARY_CHECKSUM_MATCHES": true,
+        "LIBRARY_WINDOWS_API64_SHA1_SUM": "fa732757f9aaa47e8de4ecfcabc07b5df4f0f1cf"
+    },
+    "Video": {
+        "DEMO": false,
+        "INTRO": true
+    },
+    "PublicDefinitions": {
+        "WARRIORB_DEMO": false,
+        "WARRIORB_USE_ASUS_AURA_SDK": false,
+        "WARRIORB_ALLOW_CONSOLE_CHEATS_DEFAULT": false,
+        "WARRIORB_PASSWORD_ENABLE_CONSOLE_CHEATS": "what could it be",
+        "WARRIORB_PASSWORD_SAVE_FILE": ""
+    }
+}
